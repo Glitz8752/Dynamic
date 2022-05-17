@@ -1,0 +1,22 @@
+{
+  "name": "dynamic",
+  "version": "1.0.0",
+  "description": "A Bot Made By Glitz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glitz8752/Dynamic.git"
+  },
+  "author": "Glitz#9105",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glitz8752/Dynamic/issues"
+  },
+  "homepage": "https://github.com/Glitz8752/Dynamic#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
